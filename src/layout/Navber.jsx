@@ -19,8 +19,7 @@ const Navber = () => {
             <List>Shop</List>
             <List>About</List>
             <List>Contacts</List>
-            <List>Journal</List>
-           
+            <List>Journal</List>  
           </ul>
           </div>
         </Flex>
